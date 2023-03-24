@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         var dev:String = "dev"
 
         var b:Int=200
+        var c:Int=300
     }
 }
